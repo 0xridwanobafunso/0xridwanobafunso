@@ -35,3 +35,16 @@ Ridwan bagged National Diploma in Computer Science at Federal Polytechnic, Ilaro
 4. Vue.js
 5. Nuxt.js
 6. Tailwind
+
+#### Database(s)
+
+1. MySQL 
+2. MongoDB
+3. Redis
+4. Elasticsearch
+
+
+#### API Design(s)
+
+1. Rest
+2. GraphQL
