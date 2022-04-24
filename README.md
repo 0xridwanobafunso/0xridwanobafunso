@@ -15,3 +15,10 @@ He loves Open Source, so he massively contributes to Open Source communities.
 
 #### Education 🧑‍🎓 
 Ridwan bagged National Diploma in Computer Science at Federal Polytechnic, Ilaro which is located in Ogun, Nigeria.
+
+
+### Skills
+
+#### Technical Skills 😍
+
+##### Programming Language(s)
