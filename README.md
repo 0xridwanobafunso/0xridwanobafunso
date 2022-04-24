@@ -67,6 +67,8 @@ Ridwan bagged National Diploma in Computer Science at Federal Polytechnic, Ilaro
 
 ### Suya.js
 
+Suya is a simple, fast middleware(s) that adds caching layer on top of your Express.js API response to reduce latency and increase performance.
+
 ## Products
 
 ### Joojoo.app
