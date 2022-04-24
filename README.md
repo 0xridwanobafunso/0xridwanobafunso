@@ -65,7 +65,13 @@ Ridwan bagged National Diploma in Computer Science at Federal Polytechnic, Ilaro
 
 ## OSS
 
+### Suya.js
+
 ## Products
+
+### Joojoo.app
+
+Joojoo.app is an interactive gaming app that allow you to have fun at zero cost. Make a link to your profile and send it to all of your contacts to see what your friends think of you.
 
 ## Blog
 
