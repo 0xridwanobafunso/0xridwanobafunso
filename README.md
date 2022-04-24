@@ -64,6 +64,8 @@ Ridwan bagged National Diploma in Computer Science at Federal Polytechnic, Ilaro
 
 ## Portfolio 
 
+None at the moment.
+
 ## OSS
 
 ### Suya.js
@@ -77,6 +79,8 @@ Suya is a simple, fast middleware(s) that adds caching layer on top of your Expr
 Joojoo.app is an interactive gaming app that allow you to have fun at zero cost. Make a link to your profile and send it to all of your contacts to see what your friends think of you.
 
 ## Blog
+
+None at the moment.
 
 ## Let's Connect
 
