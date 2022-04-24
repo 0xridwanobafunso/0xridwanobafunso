@@ -90,10 +90,10 @@ None at the moment.
 4. Instagram - [@ridwanobafunso](https://instagram.com/ridwanobafunso)
 
 ### Phone
-1. Hotline - 08063203337
-2. WhatsApp - 09028705800
-3. Telegram - 09028705800
+1. Hotline - [08063203337]()
+2. WhatsApp - [09028705800]()
+3. Telegram - [09028705800]()
 
 ### Email
 1. 0xridwanobafunso@gmail.com
-2. obafunsoadebayo17@gmail.com
+2. Obafunsoadebayo17@gmail.com
