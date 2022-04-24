@@ -69,13 +69,13 @@ None at the moment.
 
 ### Suya.js
 
-Suya is a simple, fast middleware(s) that adds caching layer on top of your Express.js API response to reduce latency and increase performance.
+[Suya.js](https://oss.ridwanobafunso.com/suya/docs) is a simple, fast middleware(s) that adds caching layer on top of your Express.js API response to reduce latency and increase performance.
 
 ## Products
 
 ### Joojoo.app
 
-Joojoo.app is an interactive gaming app that allow you to have fun at zero cost. Make a link to your profile and send it to all of your contacts to see what your friends think of you.
+[Joojoo.app](https://joojoo.app) is an interactive gaming app that allow you to have fun at zero cost. Make a link to your profile and send it to all of your contacts to see what your friends think of you.
 
 ## Blog
 
