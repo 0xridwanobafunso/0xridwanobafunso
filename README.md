@@ -1,5 +1,4 @@
-# Hi there 👋
-![Obafunso Ridwan Adebayo](https://raw.githubusercontent.com/0xridwanobafunso/0xridwanobafunso/main/3A1E0FEA-A5CB-4700-A611-3BAC2A9E8943.png)
+# Hi geeks 👋
 
 I build software that scale using the industry battle-tested engineering principles and approaches. I care a lot about clean code, architecture, performance, testing and many more. Ridwan is always eager to learn new technology stack to improve his knowledge and career.
 
