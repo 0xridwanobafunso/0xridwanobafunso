@@ -91,4 +91,5 @@ Joojoo.app is an interactive gaming app that allow you to have fun at zero cost.
 3. Telegram - 09028705800
 
 ### Email
-1. Google Mail - 0xridwanobafunso@gmail.com
+1. 0xridwanobafunso@gmail.com
+2. obafunsoadebayo17@gmail.com
