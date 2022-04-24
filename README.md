@@ -59,3 +59,10 @@ Ridwan bagged National Diploma in Computer Science at Federal Polytechnic, Ilaro
 2. Teamwork
 3. Leadership 
 4. Critical Thinking
+
+
+## Portfolio 
+## OSS
+## Products
+## Blog
+## Let's Connect
