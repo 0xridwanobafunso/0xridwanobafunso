@@ -81,10 +81,10 @@ Joojoo.app is an interactive gaming app that allow you to have fun at zero cost.
 ## Let's Connect
 
 ### Social
-1. Twitter -
+1. Twitter - [@ridwanobafunso](https://twitter.com/ridwanobafunso)
 2. LinkedIn - 
-3. Facebook -
-4. Instagram - 
+3. Facebook - [@dev.ridwanobafunso](https://facebook.com/dev.ridwanobafunso)
+4. Instagram - [@ridwanobafunso](https://instagram.com/ridwanobafunso)
 
 ### Phone
 1. Hotline - 08063203337
