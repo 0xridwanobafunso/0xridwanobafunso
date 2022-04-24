@@ -62,7 +62,25 @@ Ridwan bagged National Diploma in Computer Science at Federal Polytechnic, Ilaro
 
 
 ## Portfolio 
+
 ## OSS
+
 ## Products
+
 ## Blog
+
 ## Let's Connect
+
+### Social
+1. Twitter -
+2. LinkedIn - 
+3. Facebook -
+4. Instagram - 
+
+### Phone
+1. Hotline - 08063203337
+2. WhatsApp - 09028705800
+3. Telegram - 09028705800
+
+### Email
+1. Google Mail - 0xridwanobafunso@gmail.com
