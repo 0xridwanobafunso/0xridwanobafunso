@@ -23,4 +23,15 @@ Ridwan bagged National Diploma in Computer Science at Federal Polytechnic, Ilaro
 
 #### Programming Language(s)
 
+1. PHP
+2. JavaScript
+3. TypeScript
+
 #### Framework(s)
+
+1. Node.js
+2. Express.js
+3. Laravel
+4. Vue.js
+5. Nuxt.js
+6. Tailwind
