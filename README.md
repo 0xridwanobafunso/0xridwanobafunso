@@ -1,4 +1,4 @@
-# Hi geeks 👋
+# Hi there 👋
 
 I build software that scale using the industry battle-tested engineering principles and approaches. I care a lot about clean code, architecture, performance, testing and many more. Ridwan is always eager to learn new technology stack to improve his knowledge and career.
 
