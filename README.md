@@ -69,7 +69,7 @@ None at the moment.
 
 ### Suya.js
 
-[Suya.js](https://oss.ridwanobafunso.com/suya/docs) is a simple, fast middleware(s) that adds caching layer on top of your Express.js API response to reduce latency and increase performance.
+[Suya.js](https://ridwanobafunso.surge.sh/oss/suya/docs) is a simple, fast middleware(s) that adds caching layer on top of your Express.js API response to reduce latency and increase performance.
 
 ## Products
 
