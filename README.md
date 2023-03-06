@@ -4,6 +4,8 @@ I am Obafunso Ridwan Adebayo, A Software Engineer from Lagos, Nigeria. I build s
 
 # Useful Links
 Personal Website: [Here](https://ridwanobafunso.xyz)
+
 Personal Blog: [Here](https://blog.ridwanobafunso.xyz)
+
 Personal OSS: [Here](https://ridwanobafunso.xyz/oss)
 
