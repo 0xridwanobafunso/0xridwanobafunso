@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Obafunso Ridwan Adebayo, a Software Engineer from Lagos, Nigeria. I build scalable software using industry-tested engineering principles and approaches. I care a lot about clean code, architecture, performance, testing, and much more. I am always eager to learn new technology stacks to improve my knowledge and career.
+Hey! I’m Ridwan, a software engineer from Lagos, Nigeria. I enjoy building software that scales, using proven engineering practices. I’m big on writing clean, maintainable code, designing solid systems, and making sure everything runs smoothly and efficiently. Testing? Absolutely—I believe it’s a must! I’m always curious and eager to learn new tools and technologies to level up my skills. If you’re into building cool stuff or just want to chat tech, let’s connect on [X](https://x.com/ridwanobafunso)!
 
 # Useful Links
 🚀 Portfolio: [Here](https://ridwanobafunso.xyz)
