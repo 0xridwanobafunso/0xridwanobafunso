@@ -5,7 +5,7 @@ Hey! I’m Ridwan, a software engineer from Lagos, Nigeria. I enjoy building sof
 # Useful Links
 🚀 Portfolio: [Here](https://ridwanobafunso.xyz)
 
-📝 Blog: [Here](https://blog.ridwanobafunso.xyz)
+📝 Blog: [Here](https://ridwanobafunso.xyz/blog)
 
 🥑 OSS: [Here](https://ridwanobafunso.xyz/oss)
 
